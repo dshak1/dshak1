@@ -1,5 +1,5 @@
 <!-- Make a masterhead -->
-<h1 align="center">Hi 👋, I'm Diar Shakimov</h1>
+<h1 align="center">Hey! I'm Diar Shakimov</h1>
 <h3 align="center">CS & Math Student @ SFU | AI/ML Researcher | Full Stack Developer</h4>
 <div align="center">
   <img src="https://i.pinimg.com/originals/59/30/74/593074c302700c41ae6fdfeca3d51563.gif" width="300">
@@ -10,7 +10,7 @@
 
 - 🎓 BSc in Computer Science and Mathematics @ Simon Fraser University (Expected April 2028)
 
-- 🏆 2nd Place @ FallHacks 2025 | 1st Place Cohort @ StormHacks 2025
+
 
 - ⬇️ Check my pinned projects below ⬇️
 
