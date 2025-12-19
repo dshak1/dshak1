@@ -12,7 +12,7 @@
 
 - ⬇️ Check my pinned projects below ⬇️
 
-- 📫 How to reach me **dsa158@sfu.ca**. Ask me about **AI/ML, Cloud/DevOps, Full Stack Development, Cybersecurity!**
+- 📫 How to reach me **dsa158@sfu.ca**
 
 <h2 align="left">💻 Tech Stack</h2>
 <div align="left">
