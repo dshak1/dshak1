@@ -20,11 +20,3 @@
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,swift,html,css,react,nextjs,flask,tailwind,pytorch,tensorflow,sklearn,aws,gcp,docker,postgres,git" />
   </a>
 </div>
-
-<br/>
-<br/>
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 30px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dshak1&show_icons=true&theme=dark&hide_border=false" alt="dshak1" height="150px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dshak1&theme=dark&hide_border=false" alt="stats" height="150px"/>
-</div>
