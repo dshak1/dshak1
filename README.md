@@ -12,7 +12,7 @@
 
 - ⬇️ Check my pinned projects below ⬇️
 
-- 📫 Reach out: **dsa158@sfu.ca**
+- 📫 Reach out: **dshakimov@gmail.com**
 
 <h2 align="left">💻 Tech Stack</h2>
 <div align="left">
