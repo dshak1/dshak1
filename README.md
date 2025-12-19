@@ -8,9 +8,7 @@
 
 - 🎓 BSc in Computer Science and Mathematics @ Simon Fraser University (Expected April 2028)
 
-- 💡 I'm into **AI/ML** and **low-level systems stuff** (C/C++). Also dabble in **cybersecurity**, **computer architecture**, and **cloud/DevOps**
-
-- 🌐 Full-stack work is like the glue that brings it all together—lets me build the interfaces that make my projects actually usable
+- 💡 I'm into **AI/ML** and **low-level systems stuff** (C/C++), using full-stack to present it nicely and make it usable. Many of my projects tend to overlap into field such as: **cybersecurity**, **computer architecture**, and **cloud/DevOps**
 
 - ⬇️ Check my pinned projects below ⬇️
 
