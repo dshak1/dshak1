@@ -7,7 +7,7 @@
 
 - 🎓 BSc in Computer Science and Mathematics @ Simon Fraser University (Expected April 2028)
 
-- 💡 I'm into **AI/ML** (python) and **low-level systems stuff** (C/C++), using full-stack to present it nicely and make it usable. Many of my projects tend to overlap into field such as: **cybersecurity** (Reverse engineering), **computer architecture** (RISC-V), and **cloud/DevOps** (AWS)
+- 💡 I'm into **AI/ML** (python) and **low-level systems stuff** (C/C++). Many of my projects tend to overlap into field such as: **cybersecurity** (Reverse engineering), **computer architecture** (RISC-V), and **cloud/DevOps** (AWS)
 
 - ⬇️ Check my pinned projects below ⬇️
 
