@@ -2,12 +2,13 @@
 <h1 align="center">Hey! I'm Diar Shakimov</h1>
 <h3 align="center">CS & Math Student @ SFU | C++ Developer | ML Researcher </h4>
 
+- 🔬 Undergraduate Research Assistant at SFU - Machine Learning & Cybersecurity Research
 
 - 🔬 Undergraduate Research Assistant at SFU - Machine Learning & Cybersecurity Research
 
 - 🎓 BSc in Computer Science and Mathematics @ Simon Fraser University (Expected April 2028)
 
-- 💡 I'm into **AI/ML** (python) and **low-level systems stuff** (C/C++). Many of my projects tend to overlap into field such as: **cybersecurity** (Reverse engineering), **computer architecture** (RISC-V), and **cloud/DevOps** (AWS)
+- 💡 I'm into **low-level systems** (C/C++) and **AI/ML** (python). Many of my projects tend to overlap into field such as: **cybersecurity** (Reverse engineering), **computer architecture** (RISC-V), and **cloud/DevOps** (AWS)
 
 - ⬇️ Check my pinned projects below ⬇️
 
