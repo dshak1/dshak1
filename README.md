@@ -1,6 +1,6 @@
 <!-- Make a masterhead -->
 <h1 align="center">Hey! I'm Diar Shakimov</h1>
-<h3 align="center">CS & Math Student @ SFU | CPP Developer | ML Researcher </h4>
+<h3 align="center">CS & Math Student @ SFU | C++ Developer | ML Researcher </h4>
 
 
 - 🔬 Undergraduate Research Assistant at SFU - Machine Learning & Cybersecurity Research
