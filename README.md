@@ -2,6 +2,7 @@
 <h1 align="center">Hey! I'm Diar Shakimov</h1>
 <h3 align="center">CS & Math Student @ SFU | Incoming C++ SWE @ EA SPORTS | ML Researcher @ SFU 
 
+
 - C++ & Full Stack Developer
 
 - Undergraduate Research Assistant at SFU - Machine Learning & Cybersecurity Research
