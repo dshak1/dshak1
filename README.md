@@ -3,8 +3,6 @@
 <h3 align="center"> C++ SWE @ EA | CS & Math Student @ SFU | ML & Cybersecurity Researcher @ SFU 
 
 
-- C++ & Full Stack Developer
-
 - Undergraduate Research Assistant at SFU - Machine Learning & Cybersecurity Research
 
 - BSc in Computer Science and Mathematics @ Simon Fraser University (Expected April 2028)
