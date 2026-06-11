@@ -3,9 +3,7 @@
 <h3 align="center"> C++ SWE @ EA | CS & Math Student @ SFU | ML & Cybersecurity Researcher @ SFU 
 
 
-- Undergraduate Research Assistant at SFU - Machine Learning & Cybersecurity Research
-
-- BSc in Computer Science and Mathematics @ Simon Fraser University (Expected April 2028)
+BSc in Computer Science and Mathematics @ Simon Fraser University (Expected April 2028)
 
 - I'm into **low-level systems** (C/C++) and **AI/ML** (python). Many of my projects tend to overlap into field such as: **cybersecurity** (Reverse engineering), **computer architecture** (RISC-V), and **cloud/DevOps** (AWS)
 
