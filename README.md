@@ -1,22 +1,30 @@
-# Diar Shakimov
+# diar shakimov
 
-**C++ SWE intern @ EA SPORTS (FC)** · CS + Math @ SFU.
+c++ swe intern at ea sports fc. cs + math at sfu. i care about systems work: latency, concurrency, caches, the ugly parts of making something actually run.
 
-Building a **personal shared-memory layer** over Cursor / GitHub / Notion, with [Composio](https://composio.dev) as the action graph. I ship product experiments: decent design, decent backend, users in the loop.
+i do not put work code here.
 
-## Click these
+## systems stuff
 
-| Repo | What it is |
-|------|------------|
-| [s2s](https://github.com/dshak1/s2s) | **Steppe to Screen** — Kazakh language + culture games for kids. Daily user tests. Tap feedback → voice + screen recording of the exact issue. |
-| [latenC](https://github.com/dshak1/latenC) | VS Code C++ latency extension. Mountain Madness **Software Systems** prize. Real compiled benchmarks, not estimates. |
-| [f1-telemetry-copilot](https://github.com/dshak1/f1-telemetry-copilot) | FARVIS — C++17 AI race engineer. 50Hz telemetry, 20 concurrent sims. |
-| [intelliaudit-chatbot-frontend](https://github.com/dshak1/intelliaudit-chatbot-frontend) | GRC agents. Multi-agent ISO 27001 auditor (research → startup). |
-| [NIDS-GAN](https://github.com/dshak1/NIDS-GAN) | Network intrusion detection + GAN synthetic data. |
-| [gravity-simulator-updated](https://github.com/dshak1/gravity-simulator-updated) | Einstein spacetime sim. C++ / OpenGL, 60 FPS, zero asset deps. |
+[latenC](https://github.com/dshak1/latenC)
+vs code extension that finds c++ performance antipatterns and then compiles real benchmarks instead of guessing. mountain madness software systems prize.
 
-## Now
+[f1-telemetry-copilot](https://github.com/dshak1/f1-telemetry-copilot)
+farvis. c++17 race engineer. 50hz telemetry, 20 concurrent sims, gemini on the pit wall. thread-safe ring buffers because the naive version fell over.
 
-EA SPORTS FC (C++). Side stack is agent memory + GRC. I do not put work code here.
+[gravity-simulator-updated](https://github.com/dshak1/gravity-simulator-updated)
+watched a documentary with mom and built a gravity simulator in year 1. bcc (before claude code). c++ / opengl. still the project i debug like a maniac.
 
-[LinkedIn](https://linkedin.com/in/dshakimov) · dshakimov@gmail.com
+[NIDS-GAN](https://github.com/dshak1/NIDS-GAN)
+network intrusion detection plus gan synthetic data. research-shaped, not a tutorial dump.
+
+[intelliaudit-chatbot-frontend](https://github.com/dshak1/intelliaudit-chatbot-frontend)
+grc agents. multi-agent iso 27001 auditor. research that turned into a company. auditors are not technical so i do live setup with them on zoom.
+
+## also
+
+[s2s](https://github.com/dshak1/s2s) is steppe to screen, live at [steppe2screen.com](https://steppe2screen.com). kazakh kids games, ubc ccel unesco chapman grant ($10k). not the headline. i am on that team because shipping with kids compounds. ios coming soon.
+
+[linkedin](https://linkedin.com/in/dshakimov) · dshakimov@gmail.com
+
+contribution chart would be stupendous if i had stuff from work. unfortunately we use a different version control (perforce).
