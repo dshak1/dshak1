@@ -23,7 +23,7 @@ grc agents. multi-agent iso 27001 auditor. research that turned into a company. 
 
 ## also
 
-[s2s](https://github.com/dshak1/s2s) is steppe to screen, live at [steppe2screen.com](https://steppe2screen.com). kazakh kids games, ubc ccel unesco chapman grant ($10k). not the headline. i am on that team because shipping with kids compounds. ios coming soon.
+[s2s](https://github.com/dshak1/s2s) is a passion project developed in partnership with UBC CCEL Chapman Grant teaching kids Kazakh lanugage and culture as well as design and technical skills; live at [steppe2screen.com](https://steppe2screen.com). ios coming soon.
 
 [linkedin](https://linkedin.com/in/dshakimov) · dshakimov@gmail.com
 
