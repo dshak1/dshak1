@@ -1,6 +1,6 @@
 # diar shakimov
 
-c++ swe intern at ea, on the fc meta team. cs + math at sfu. i care about systems work: latency, concurrency, caches, the ugly parts of making something actually run.
+c++ swe intern at ea, on the fc meta team. cs + math at sfu. i like systems work: latency, concurrency, caches, the ugly parts of making something actually run.
 
 i do not put work code here.
 
