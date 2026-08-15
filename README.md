@@ -1,6 +1,6 @@
 # diar shakimov
 
-c++ swe intern at ea, on the fc meta team. cs + math at sfu. i like systems work: latency, concurrency, caches, the ugly parts of making something actually run.
+c++ swe intern at ea, on the fc meta team. cs + math at sfu. Building IntelliAudit, ai infra and hitl auditor tool. i like systems work: latency, concurrency, caches, the ugly parts of making something actually run.
 
 i do not put work code here.
 
@@ -16,10 +16,8 @@ farvis. c++17 race engineer. 50hz telemetry, 20 concurrent sims, gemini on the p
 watched a documentary with mom and built a gravity simulator in year 1. bcc (before claude code). c++ / opengl. still the project i debug like a maniac.
 
 [NIDS-GAN](https://github.com/dshak1/NIDS-GAN)
-network intrusion detection plus gan synthetic data. research-shaped, not a tutorial dump.
+network intrusion detection plus gan synthetic data. research adjacent project.
 
-[intelliaudit-chatbot-frontend](https://github.com/dshak1/intelliaudit-chatbot-frontend)
-grc agents. multi-agent iso 27001 auditor. research that turned into a company. auditors are not technical so i do live setup with them on zoom.
 
 ## also
 
