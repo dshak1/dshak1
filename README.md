@@ -1,13 +1,13 @@
 # diar shakimov
 
-c++ swe intern at ea, on the fc meta team. cs + math at sfu. Building IntelliAudit, ai infra and hitl auditor tool. i like systems work: latency, concurrency, caches, the ugly parts of making something actually run.
+c++ swe intern at ea, on the fc meta team. cs + math at sfu. building IntelliAudit, ai infra and hitl auditor tool. i like systems work: latency, concurrency, caches, the ugly parts of making something actually run.
 
 i do not put work code here.
 
 ## systems stuff
 
 [latenC](https://github.com/dshak1/latenC)
-vs code extension that finds c++ performance antipatterns and then compiles real benchmarks instead of guessing. mountain madness software systems prize.
+vs code extension that finds c++ performance antipatterns and then compiles real benchmarks instead of guessing. mountain madness software systems hackathon win.
 
 [f1-telemetry-copilot](https://github.com/dshak1/f1-telemetry-copilot)
 farvis. c++17 race engineer. 50hz telemetry, 20 concurrent sims, gemini on the pit wall. thread-safe ring buffers because the naive version fell over.
