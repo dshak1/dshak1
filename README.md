@@ -24,5 +24,3 @@ network intrusion detection plus gan synthetic data. research adjacent project.
 [s2s](https://github.com/dshak1/s2s) is a passion project developed in partnership with UBC CCEL Chapman Grant teaching kids Kazakh lanugage and culture as well as design and technical skills; live at [steppe2screen.com](https://steppe2screen.com). ios coming soon.
 
 [linkedin](https://linkedin.com/in/dshakimov) · dshakimov@gmail.com
-
-contribution chart would be stupendous if i had stuff from work. unfortunately we use a different version control (perforce).
