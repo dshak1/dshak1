@@ -16,7 +16,7 @@ cache-aware hash map lab in c++17. baseline plus workload-tuned and indirect-sto
 reliability ci for computer-use agents. run the task n times on isolated browsers, verify every outcome independently of what the agent claims, get a typed verdict (the interesting row is false_positive) with a wilson 95% interval and a ci gate. [landing](https://dshak1.github.io/receipts/).
 
 deepSWE eval harness (private)
-ablation harness for an ai bug-fix pipeline over a private ticket corpus: contamination-controlled retrieval, an eight-layer failure taxonomy, gates, a run ledger, a verdict form. retrieval 0.095 to 0.690 on 21 independently labeled cases; warm query 12.4s to 1.4s on a 676-document corpus. it caught its own circular-eval bug, which is the part i am proudest of.
+ablation harness for an ai bug-fix pipeline over a private ticket corpus: contamination-controlled retrieval, an eight-layer failure taxonomy, gates, a run ledger, a verdict form. retrieval measured by ablation over a labeled benchmark (hit-rate figure under re-measurement, so not quoted); warm query 12.4s to 1.4s on a 676-document corpus. it caught its own circular-eval bug, which is the part i am proudest of.
 
 interviewMaxx (private)
 stdlib-only python cli that tailors a resume from a tagged accomplishment bank and writes the pdf with a hand-rolled pdf 1.4 writer. zero deps because the target box has no package manager.
